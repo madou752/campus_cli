@@ -1,2 +1,2 @@
 const name = process.argv[2]
-console.log(`Bienvenu au campus ${name} !!!!!!`)
+console.log(`Bienvenue au campus ${name} !!!!!!`)
